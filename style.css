@@ -65,3 +65,15 @@ a {
     display: inline-block;
     width: 30%;
 }
+.special-words {
+    color: rgb(187, 8, 8);
+}
+.text1-5 {
+    font-size: 1.3em;
+}
+.text2-0  {
+    font-size: 1.1em;
+}
+.text2-5 {
+    font-size: 1.2em;
+}
